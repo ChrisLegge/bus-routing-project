@@ -17,7 +17,7 @@ from sklearn.preprocessing import LabelEncoder
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 
-PKL_PATH = Path(r"C:\Users\aryaa\Documents\Loughborough University\Part A\WSA070 - Applied Engineering\PredictiveRouting\demand_model.pkl")
+PKL_PATH = Path(__file__).parent / "demand_model.pkl"
 
 # Which bus route to output: 0 = Bus1, 1 = Bus2, 2 = Bus3
 BUS_INDEX = 0
