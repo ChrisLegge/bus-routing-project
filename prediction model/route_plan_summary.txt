@@ -1,0 +1,175 @@
+
+======================================================================
+SCENARIO: Weekday (Sunny, Sep)
+======================================================================
+
+  [05:00-07:00]  Early Morning
+  Network demand: 331  |  Served: 331 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [297 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [34 pass, 61.0 min]
+
+  [07:00-09:00]  AM Peak
+  Network demand: 1048  |  Served: 1048 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [928 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [121 pass, 61.0 min]
+
+  [09:00-11:00]  Mid Morning
+  Network demand: 624  |  Served: 624 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [580 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Northwest End -> West End -> Lower West End  [44 pass, 61.0 min]
+
+  [11:00-13:00]  Lunch
+  Network demand: 550  |  Served: 550 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [518 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Northwest End -> West End -> Lower West End  [31 pass, 61.0 min]
+
+  [13:00-16:00]  Afternoon
+  Network demand: 868  |  Served: 868 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [817 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Northwest End -> West End -> Lower West End  [51 pass, 61.0 min]
+
+  [16:00-18:00]  PM Peak
+  Network demand: 930  |  Served: 930 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [893 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [36 pass, 61.0 min]
+
+  [18:00-21:00]  Evening
+  Network demand: 813  |  Served: 813 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [782 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Northwest End -> West End -> Lower West End  [31 pass, 61.0 min]
+
+  [21:00-24:00]  Night
+  Network demand: 302  |  Served: 297 (98%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [293 pass, 58.0 min]
+    Bus 2: South End  [4 pass, 0.0 min]
+
+======================================================================
+SCENARIO: Weekday (Heavy Rain, Nov)
+======================================================================
+
+  [05:00-07:00]  Early Morning
+  Network demand: 379  |  Served: 379 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [340 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Northwest End -> West End -> Lower West End  [39 pass, 61.0 min]
+
+  [07:00-09:00]  AM Peak
+  Network demand: 1233  |  Served: 1233 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [1084 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Lower West End -> West End -> Northwest End  [149 pass, 50.0 min]
+
+  [09:00-11:00]  Mid Morning
+  Network demand: 713  |  Served: 713 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [664 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [49 pass, 61.0 min]
+
+  [11:00-13:00]  Lunch
+  Network demand: 637  |  Served: 637 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [600 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [37 pass, 61.0 min]
+
+  [13:00-16:00]  Afternoon
+  Network demand: 1014  |  Served: 1014 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [955 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [59 pass, 61.0 min]
+
+  [16:00-18:00]  PM Peak
+  Network demand: 1076  |  Served: 1076 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [1036 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [40 pass, 61.0 min]
+
+  [18:00-21:00]  Evening
+  Network demand: 939  |  Served: 939 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [900 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Northwest End -> West End -> Lower West End  [39 pass, 61.0 min]
+
+  [21:00-24:00]  Night
+  Network demand: 356  |  Served: 353 (99%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [339 pass, 58.0 min]
+    Bus 2: South End -> Far South East -> Far East End -> West End  [14 pass, 51.0 min]
+
+======================================================================
+SCENARIO: Saturday (Sunny Summer Festival @ North Hub)
+======================================================================
+
+  [05:00-07:00]  Early Morning
+  Network demand: 289  |  Served: 285 (99%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [273 pass, 56.0 min]
+    Bus 2: South End -> Far South East -> Lower West End -> Northwest End  [12 pass, 44.0 min]
+
+  [07:00-09:00]  AM Peak
+  Network demand: 700  |  Served: 700 (100%)
+    Bus 1: West Hub -> Upper Junction -> North Hub -> Northeast Pass -> East Hub -> City Centre -> Southeast Cross -> South Junction -> South End -> Far South West -> Far South East  [654 pass, 70.0 min]
+    Bus 2: Northwest End -> West End -> Lower West End -> Far East End  [46 pass, 43.0 min]
+
+  [09:00-11:00]  Mid Morning
+  Network demand: 552  |  Served: 552 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> East Hub -> City Centre -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [532 pass, 63.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Lower West End -> West End -> Far East End  [21 pass, 56.0 min]
+
+  [11:00-13:00]  Lunch
+  Network demand: 638  |  Served: 634 (99%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> East Hub -> City Centre -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [620 pass, 63.0 min]
+    Bus 2: South End -> West End -> Lower West End -> Far East End  [14 pass, 42.0 min]
+
+  [13:00-16:00]  Afternoon
+  Network demand: 962  |  Served: 962 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> East Hub -> City Centre -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [936 pass, 63.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [26 pass, 61.0 min]
+
+  [16:00-18:00]  PM Peak
+  Network demand: 922  |  Served: 920 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> East Hub -> City Centre -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [904 pass, 63.0 min]
+    Bus 2: South End -> Far South East -> Far East End -> West End -> Lower West End  [16 pass, 55.0 min]
+
+  [18:00-21:00]  Evening
+  Network demand: 852  |  Served: 850 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [835 pass, 56.0 min]
+    Bus 2: Northwest End -> South End -> Far South East -> West End  [15 pass, 52.0 min]
+
+  [21:00-24:00]  Night
+  Network demand: 519  |  Served: 517 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> East Hub -> City Centre -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [514 pass, 61.0 min]
+    Bus 2: South End  [3 pass, 0.0 min]
+
+======================================================================
+SCENARIO: Weekday (Named Storm, Jan)
+======================================================================
+
+  [05:00-07:00]  Early Morning
+  Network demand: 285  |  Served: 285 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [253 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Lower West End -> West End -> Far East End  [32 pass, 56.0 min]
+
+  [07:00-09:00]  AM Peak
+  Network demand: 960  |  Served: 960 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [837 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Lower West End -> West End -> Northwest End  [124 pass, 50.0 min]
+
+  [09:00-11:00]  Mid Morning
+  Network demand: 530  |  Served: 530 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [488 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Lower West End -> West End -> Northwest End  [43 pass, 50.0 min]
+
+  [11:00-13:00]  Lunch
+  Network demand: 445  |  Served: 445 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [416 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> Lower West End -> West End  [30 pass, 62.0 min]
+
+  [13:00-16:00]  Afternoon
+  Network demand: 696  |  Served: 696 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [649 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Far East End -> West End -> Lower West End  [47 pass, 61.0 min]
+
+  [16:00-18:00]  PM Peak
+  Network demand: 699  |  Served: 699 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Far East End  [667 pass, 56.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> Northwest End -> West End -> Lower West End  [32 pass, 61.0 min]
+
+  [18:00-21:00]  Evening
+  Network demand: 613  |  Served: 613 (100%)
+    Bus 1: North Hub -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> Northeast Pass -> Northwest End  [590 pass, 58.0 min]
+    Bus 2: South End -> Far South West -> Far South East -> West End -> Lower West End -> Far East End  [24 pass, 61.0 min]
+
+  [21:00-24:00]  Night
+  Network demand: 193  |  Served: 187 (97%)
+    Bus 1: North Hub -> Northeast Pass -> Upper Junction -> West Hub -> City Centre -> East Hub -> Southeast Cross -> South Junction -> South End -> Northwest End  [187 pass, 65.0 min]

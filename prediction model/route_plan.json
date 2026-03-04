@@ -1,0 +1,2807 @@
+{
+  "Weekday (Sunny, Sep)": {
+    "Early Morning": {
+      "hours": "05:00-07:00",
+      "demand_per_stop": {
+        "S01": 57.8,
+        "S03": 49.6,
+        "S07": 54.8,
+        "S09": 43.1,
+        "S04": 25.7,
+        "S08": 23.1,
+        "S11": 19.5,
+        "S12": 15.4,
+        "S02": 8.1,
+        "S05": 6.4,
+        "S06": 5.0,
+        "S10": 4.6,
+        "S13": 8.8,
+        "S14": 3.8,
+        "S15": 4.9
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 57.8,
+            "S03": 49.6,
+            "S07": 54.8,
+            "S08": 23.1,
+            "S09": 43.1,
+            "S12": 15.4,
+            "S11": 19.5,
+            "S04": 25.7,
+            "S02": 8.1
+          },
+          "total_demand": 297.1,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 8.8,
+            "S14": 3.8,
+            "S15": 4.9,
+            "S05": 6.4,
+            "S06": 5.0,
+            "S10": 4.6
+          },
+          "total_demand": 33.5,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "AM Peak": {
+      "hours": "07:00-09:00",
+      "demand_per_stop": {
+        "S01": 175.5,
+        "S03": 152.3,
+        "S07": 159.7,
+        "S09": 133.1,
+        "S04": 81.0,
+        "S08": 77.7,
+        "S11": 65.3,
+        "S12": 54.4,
+        "S02": 28.9,
+        "S05": 22.5,
+        "S06": 17.6,
+        "S10": 16.1,
+        "S13": 31.3,
+        "S14": 14.3,
+        "S15": 18.8
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 175.5,
+            "S03": 152.3,
+            "S07": 159.7,
+            "S08": 77.7,
+            "S09": 133.1,
+            "S12": 54.4,
+            "S11": 65.3,
+            "S04": 81.0,
+            "S02": 28.9
+          },
+          "total_demand": 927.9,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 31.3,
+            "S14": 14.3,
+            "S15": 18.8,
+            "S05": 22.5,
+            "S06": 17.6,
+            "S10": 16.1
+          },
+          "total_demand": 120.6,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Mid Morning": {
+      "hours": "09:00-11:00",
+      "demand_per_stop": {
+        "S01": 113.8,
+        "S03": 94.2,
+        "S07": 105.2,
+        "S09": 84.2,
+        "S04": 51.1,
+        "S08": 49.1,
+        "S11": 39.9,
+        "S12": 33.9,
+        "S02": 9.7,
+        "S05": 8.3,
+        "S06": 6.4,
+        "S10": 5.6,
+        "S13": 11.2,
+        "S14": 4.9,
+        "S15": 6.1
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 113.8,
+            "S03": 94.2,
+            "S07": 105.2,
+            "S08": 49.1,
+            "S09": 84.2,
+            "S12": 33.9,
+            "S11": 39.9,
+            "S04": 51.1,
+            "S05": 8.3
+          },
+          "total_demand": 579.7,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S02",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Northwest End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 11.2,
+            "S14": 4.9,
+            "S15": 6.1,
+            "S02": 9.7,
+            "S06": 6.4,
+            "S10": 5.6
+          },
+          "total_demand": 43.9,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Lunch": {
+      "hours": "11:00-13:00",
+      "demand_per_stop": {
+        "S01": 103.1,
+        "S03": 83.1,
+        "S07": 93.7,
+        "S09": 74.7,
+        "S04": 47.3,
+        "S08": 43.9,
+        "S11": 35.6,
+        "S12": 30.8,
+        "S02": 7.1,
+        "S05": 6.1,
+        "S06": 4.3,
+        "S10": 3.7,
+        "S13": 8.4,
+        "S14": 3.2,
+        "S15": 4.5
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 103.1,
+            "S03": 83.1,
+            "S07": 93.7,
+            "S08": 43.9,
+            "S09": 74.7,
+            "S12": 30.8,
+            "S11": 35.6,
+            "S04": 47.3,
+            "S05": 6.1
+          },
+          "total_demand": 518.3,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S02",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Northwest End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 8.4,
+            "S14": 3.2,
+            "S15": 4.5,
+            "S02": 7.1,
+            "S06": 4.3,
+            "S10": 3.7
+          },
+          "total_demand": 31.2,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Afternoon": {
+      "hours": "13:00-16:00",
+      "demand_per_stop": {
+        "S01": 157.2,
+        "S03": 135.4,
+        "S07": 150.9,
+        "S09": 117.2,
+        "S04": 73.8,
+        "S08": 69.0,
+        "S11": 55.8,
+        "S12": 48.1,
+        "S02": 11.5,
+        "S05": 10.0,
+        "S06": 7.4,
+        "S10": 6.3,
+        "S13": 13.3,
+        "S14": 5.3,
+        "S15": 7.2
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 157.2,
+            "S03": 135.4,
+            "S07": 150.9,
+            "S08": 69.0,
+            "S09": 117.2,
+            "S12": 48.1,
+            "S11": 55.8,
+            "S04": 73.8,
+            "S05": 10.0
+          },
+          "total_demand": 817.4,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S02",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Northwest End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 13.3,
+            "S14": 5.3,
+            "S15": 7.2,
+            "S02": 11.5,
+            "S06": 7.4,
+            "S10": 6.3
+          },
+          "total_demand": 51.0,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "PM Peak": {
+      "hours": "16:00-18:00",
+      "demand_per_stop": {
+        "S01": 175.6,
+        "S03": 153.1,
+        "S07": 162.7,
+        "S09": 126.8,
+        "S04": 78.9,
+        "S08": 74.2,
+        "S11": 59.5,
+        "S12": 53.7,
+        "S02": 8.8,
+        "S05": 7.2,
+        "S06": 6.0,
+        "S10": 4.5,
+        "S13": 9.3,
+        "S14": 3.8,
+        "S15": 5.4
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 175.6,
+            "S03": 153.1,
+            "S07": 162.7,
+            "S08": 74.2,
+            "S09": 126.8,
+            "S12": 53.7,
+            "S11": 59.5,
+            "S04": 78.9,
+            "S02": 8.8
+          },
+          "total_demand": 893.3,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 9.3,
+            "S14": 3.8,
+            "S15": 5.4,
+            "S05": 7.2,
+            "S06": 6.0,
+            "S10": 4.5
+          },
+          "total_demand": 36.2,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Evening": {
+      "hours": "18:00-21:00",
+      "demand_per_stop": {
+        "S01": 163.2,
+        "S03": 130.4,
+        "S07": 139.6,
+        "S09": 110.3,
+        "S04": 69.1,
+        "S08": 66.2,
+        "S11": 51.4,
+        "S12": 45.5,
+        "S02": 7.2,
+        "S05": 6.0,
+        "S06": 4.7,
+        "S10": 3.6,
+        "S13": 8.2,
+        "S14": 3.0,
+        "S15": 4.2
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 163.2,
+            "S03": 130.4,
+            "S07": 139.6,
+            "S08": 66.2,
+            "S09": 110.3,
+            "S12": 45.5,
+            "S11": 51.4,
+            "S04": 69.1,
+            "S05": 6.0
+          },
+          "total_demand": 781.7,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S02",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Northwest End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 8.2,
+            "S14": 3.0,
+            "S15": 4.2,
+            "S02": 7.2,
+            "S06": 4.7,
+            "S10": 3.6
+          },
+          "total_demand": 30.9,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Night": {
+      "hours": "21:00-24:00",
+      "demand_per_stop": {
+        "S01": 60.7,
+        "S03": 48.7,
+        "S07": 55.5,
+        "S09": 43.8,
+        "S04": 25.6,
+        "S08": 23.2,
+        "S11": 17.2,
+        "S12": 14.4,
+        "S02": 3.8,
+        "S05": 1.4,
+        "S06": 1.3,
+        "S10": 1.0,
+        "S13": 4.1,
+        "S14": 0.7,
+        "S15": 1.1
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 60.7,
+            "S03": 48.7,
+            "S07": 55.5,
+            "S08": 23.2,
+            "S09": 43.8,
+            "S12": 14.4,
+            "S11": 17.2,
+            "S04": 25.6,
+            "S02": 3.8
+          },
+          "total_demand": 292.9,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13"
+          ],
+          "route_names": [
+            "South End"
+          ],
+          "stop_demand": {
+            "S13": 4.1
+          },
+          "total_demand": 4.1,
+          "route_time_min": 0.0
+        }
+      ],
+      "unserved_stops": []
+    }
+  },
+  "Weekday (Heavy Rain, Nov)": {
+    "Early Morning": {
+      "hours": "05:00-07:00",
+      "demand_per_stop": {
+        "S01": 67.1,
+        "S03": 60.0,
+        "S07": 60.8,
+        "S09": 49.3,
+        "S04": 28.0,
+        "S08": 26.2,
+        "S11": 22.2,
+        "S12": 18.8,
+        "S02": 8.5,
+        "S05": 7.3,
+        "S06": 5.6,
+        "S10": 5.1,
+        "S13": 9.9,
+        "S14": 4.3,
+        "S15": 6.0
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 67.1,
+            "S03": 60.0,
+            "S07": 60.8,
+            "S08": 26.2,
+            "S09": 49.3,
+            "S12": 18.8,
+            "S11": 22.2,
+            "S04": 28.0,
+            "S05": 7.3
+          },
+          "total_demand": 339.7,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S02",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Northwest End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 9.9,
+            "S14": 4.3,
+            "S15": 6.0,
+            "S02": 8.5,
+            "S06": 5.6,
+            "S10": 5.1
+          },
+          "total_demand": 39.4,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "AM Peak": {
+      "hours": "07:00-09:00",
+      "demand_per_stop": {
+        "S01": 206.2,
+        "S03": 182.0,
+        "S07": 190.7,
+        "S09": 165.9,
+        "S04": 88.4,
+        "S08": 84.8,
+        "S11": 74.5,
+        "S12": 62.6,
+        "S02": 31.5,
+        "S05": 28.5,
+        "S06": 22.3,
+        "S10": 19.7,
+        "S13": 35.0,
+        "S14": 18.0,
+        "S15": 22.6
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 206.2,
+            "S03": 182.0,
+            "S07": 190.7,
+            "S08": 84.8,
+            "S09": 165.9,
+            "S12": 62.6,
+            "S11": 74.5,
+            "S04": 88.4,
+            "S05": 28.5
+          },
+          "total_demand": 1083.6,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S10",
+            "S06",
+            "S02"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Lower West End",
+            "West End",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S13": 35.0,
+            "S14": 18.0,
+            "S15": 22.6,
+            "S10": 19.7,
+            "S06": 22.3,
+            "S02": 31.5
+          },
+          "total_demand": 149.1,
+          "route_time_min": 50.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Mid Morning": {
+      "hours": "09:00-11:00",
+      "demand_per_stop": {
+        "S01": 136.3,
+        "S03": 110.8,
+        "S07": 118.5,
+        "S09": 99.5,
+        "S04": 53.8,
+        "S08": 51.7,
+        "S11": 43.5,
+        "S12": 37.7,
+        "S02": 12.2,
+        "S05": 9.8,
+        "S06": 7.0,
+        "S10": 6.3,
+        "S13": 12.8,
+        "S14": 5.9,
+        "S15": 7.3
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 136.3,
+            "S03": 110.8,
+            "S07": 118.5,
+            "S08": 51.7,
+            "S09": 99.5,
+            "S12": 37.7,
+            "S11": 43.5,
+            "S04": 53.8,
+            "S02": 12.2
+          },
+          "total_demand": 664.0,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 12.8,
+            "S14": 5.9,
+            "S15": 7.3,
+            "S05": 9.8,
+            "S06": 7.0,
+            "S10": 6.3
+          },
+          "total_demand": 49.1,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Lunch": {
+      "hours": "11:00-13:00",
+      "demand_per_stop": {
+        "S01": 122.8,
+        "S03": 99.5,
+        "S07": 107.5,
+        "S09": 89.2,
+        "S04": 50.0,
+        "S08": 47.2,
+        "S11": 39.2,
+        "S12": 34.5,
+        "S02": 10.1,
+        "S05": 7.6,
+        "S06": 5.3,
+        "S10": 4.4,
+        "S13": 10.0,
+        "S14": 4.0,
+        "S15": 5.3
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 122.8,
+            "S03": 99.5,
+            "S07": 107.5,
+            "S08": 47.2,
+            "S09": 89.2,
+            "S12": 34.5,
+            "S11": 39.2,
+            "S04": 50.0,
+            "S02": 10.1
+          },
+          "total_demand": 600.0,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 10.0,
+            "S14": 4.0,
+            "S15": 5.3,
+            "S05": 7.6,
+            "S06": 5.3,
+            "S10": 4.4
+          },
+          "total_demand": 36.6,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Afternoon": {
+      "hours": "13:00-16:00",
+      "demand_per_stop": {
+        "S01": 202.6,
+        "S03": 162.1,
+        "S07": 171.9,
+        "S09": 134.7,
+        "S04": 78.7,
+        "S08": 72.7,
+        "S11": 61.6,
+        "S12": 54.1,
+        "S02": 16.5,
+        "S05": 11.8,
+        "S06": 8.7,
+        "S10": 7.4,
+        "S13": 15.9,
+        "S14": 6.7,
+        "S15": 8.3
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 202.6,
+            "S03": 162.1,
+            "S07": 171.9,
+            "S08": 72.7,
+            "S09": 134.7,
+            "S12": 54.1,
+            "S11": 61.6,
+            "S04": 78.7,
+            "S02": 16.5
+          },
+          "total_demand": 954.9,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 15.9,
+            "S14": 6.7,
+            "S15": 8.3,
+            "S05": 11.8,
+            "S06": 8.7,
+            "S10": 7.4
+          },
+          "total_demand": 58.8,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "PM Peak": {
+      "hours": "16:00-18:00",
+      "demand_per_stop": {
+        "S01": 228.0,
+        "S03": 181.1,
+        "S07": 183.4,
+        "S09": 149.3,
+        "S04": 81.3,
+        "S08": 76.9,
+        "S11": 65.1,
+        "S12": 58.8,
+        "S02": 12.0,
+        "S05": 8.3,
+        "S06": 5.8,
+        "S10": 5.0,
+        "S13": 10.5,
+        "S14": 4.3,
+        "S15": 6.0
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 228.0,
+            "S03": 181.1,
+            "S07": 183.4,
+            "S08": 76.9,
+            "S09": 149.3,
+            "S12": 58.8,
+            "S11": 65.1,
+            "S04": 81.3,
+            "S02": 12.0
+          },
+          "total_demand": 1035.9,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 10.5,
+            "S14": 4.3,
+            "S15": 6.0,
+            "S05": 8.3,
+            "S06": 5.8,
+            "S10": 5.0
+          },
+          "total_demand": 39.9,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Evening": {
+      "hours": "18:00-21:00",
+      "demand_per_stop": {
+        "S01": 187.6,
+        "S03": 154.2,
+        "S07": 162.8,
+        "S09": 130.5,
+        "S04": 73.6,
+        "S08": 71.8,
+        "S11": 58.8,
+        "S12": 53.2,
+        "S02": 8.4,
+        "S05": 7.2,
+        "S06": 5.7,
+        "S10": 4.5,
+        "S13": 10.4,
+        "S14": 4.2,
+        "S15": 5.8
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 187.6,
+            "S03": 154.2,
+            "S07": 162.8,
+            "S08": 71.8,
+            "S09": 130.5,
+            "S12": 53.2,
+            "S11": 58.8,
+            "S04": 73.6,
+            "S05": 7.2
+          },
+          "total_demand": 899.7,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S02",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Northwest End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 10.4,
+            "S14": 4.2,
+            "S15": 5.8,
+            "S02": 8.4,
+            "S06": 5.7,
+            "S10": 4.5
+          },
+          "total_demand": 39.0,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Night": {
+      "hours": "21:00-24:00",
+      "demand_per_stop": {
+        "S01": 69.6,
+        "S03": 58.0,
+        "S07": 65.5,
+        "S09": 51.0,
+        "S04": 26.8,
+        "S08": 25.6,
+        "S11": 20.7,
+        "S12": 17.9,
+        "S02": 4.2,
+        "S05": 3.3,
+        "S06": 2.3,
+        "S10": 1.9,
+        "S13": 5.8,
+        "S14": 1.5,
+        "S15": 2.4
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 69.6,
+            "S03": 58.0,
+            "S07": 65.5,
+            "S08": 25.6,
+            "S09": 51.0,
+            "S12": 17.9,
+            "S11": 20.7,
+            "S04": 26.8,
+            "S02": 4.2
+          },
+          "total_demand": 339.3,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S15",
+            "S05",
+            "S06"
+          ],
+          "route_names": [
+            "South End",
+            "Far South East",
+            "Far East End",
+            "West End"
+          ],
+          "stop_demand": {
+            "S13": 5.8,
+            "S15": 2.4,
+            "S05": 3.3,
+            "S06": 2.3
+          },
+          "total_demand": 13.8,
+          "route_time_min": 51.0
+        }
+      ],
+      "unserved_stops": []
+    }
+  },
+  "Saturday (Sunny Summer Festival @ North Hub)": {
+    "Early Morning": {
+      "hours": "05:00-07:00",
+      "demand_per_stop": {
+        "S01": 57.1,
+        "S03": 50.0,
+        "S07": 53.4,
+        "S09": 41.8,
+        "S04": 20.4,
+        "S08": 17.5,
+        "S11": 16.8,
+        "S12": 13.6,
+        "S02": 2.7,
+        "S05": 2.3,
+        "S06": 1.8,
+        "S10": 2.2,
+        "S13": 5.1,
+        "S14": 1.8,
+        "S15": 2.3
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 57.1,
+            "S03": 50.0,
+            "S07": 53.4,
+            "S08": 17.5,
+            "S09": 41.8,
+            "S12": 13.6,
+            "S11": 16.8,
+            "S04": 20.4,
+            "S05": 2.3
+          },
+          "total_demand": 272.9,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S15",
+            "S10",
+            "S02"
+          ],
+          "route_names": [
+            "South End",
+            "Far South East",
+            "Lower West End",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S13": 5.1,
+            "S15": 2.3,
+            "S10": 2.2,
+            "S02": 2.7
+          },
+          "total_demand": 12.3,
+          "route_time_min": 44.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "AM Peak": {
+      "hours": "07:00-09:00",
+      "demand_per_stop": {
+        "S01": 114.8,
+        "S03": 117.8,
+        "S07": 124.4,
+        "S09": 91.9,
+        "S04": 48.8,
+        "S08": 45.2,
+        "S11": 42.3,
+        "S12": 33.4,
+        "S02": 14.8,
+        "S05": 10.5,
+        "S06": 10.8,
+        "S10": 9.6,
+        "S13": 17.8,
+        "S14": 8.5,
+        "S15": 9.0
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S07",
+            "S03",
+            "S01",
+            "S04",
+            "S09",
+            "S08",
+            "S12",
+            "S11",
+            "S13",
+            "S14",
+            "S15"
+          ],
+          "route_names": [
+            "West Hub",
+            "Upper Junction",
+            "North Hub",
+            "Northeast Pass",
+            "East Hub",
+            "City Centre",
+            "Southeast Cross",
+            "South Junction",
+            "South End",
+            "Far South West",
+            "Far South East"
+          ],
+          "stop_demand": {
+            "S07": 124.4,
+            "S03": 117.8,
+            "S01": 114.8,
+            "S04": 48.8,
+            "S09": 91.9,
+            "S08": 45.2,
+            "S12": 33.4,
+            "S11": 42.3,
+            "S13": 17.8,
+            "S14": 8.5,
+            "S15": 9.0
+          },
+          "total_demand": 653.9,
+          "route_time_min": 70.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S02",
+            "S06",
+            "S10",
+            "S05"
+          ],
+          "route_names": [
+            "Northwest End",
+            "West End",
+            "Lower West End",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S02": 14.8,
+            "S06": 10.8,
+            "S10": 9.6,
+            "S05": 10.5
+          },
+          "total_demand": 45.7,
+          "route_time_min": 43.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Mid Morning": {
+      "hours": "09:00-11:00",
+      "demand_per_stop": {
+        "S01": 147.6,
+        "S03": 98.0,
+        "S07": 100.3,
+        "S09": 72.9,
+        "S04": 33.8,
+        "S08": 27.6,
+        "S11": 26.4,
+        "S12": 21.2,
+        "S02": 4.0,
+        "S05": 3.1,
+        "S06": 3.2,
+        "S10": 3.0,
+        "S13": 6.2,
+        "S14": 2.6,
+        "S15": 2.5
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S09",
+            "S08",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "East Hub",
+            "City Centre",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 147.6,
+            "S03": 98.0,
+            "S07": 100.3,
+            "S09": 72.9,
+            "S08": 27.6,
+            "S12": 21.2,
+            "S11": 26.4,
+            "S04": 33.8,
+            "S02": 4.0
+          },
+          "total_demand": 531.8,
+          "route_time_min": 63.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S10",
+            "S06",
+            "S05"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Lower West End",
+            "West End",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S13": 6.2,
+            "S14": 2.6,
+            "S15": 2.5,
+            "S10": 3.0,
+            "S06": 3.2,
+            "S05": 3.1
+          },
+          "total_demand": 20.6,
+          "route_time_min": 56.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Lunch": {
+      "hours": "11:00-13:00",
+      "demand_per_stop": {
+        "S01": 217.7,
+        "S03": 112.0,
+        "S07": 95.8,
+        "S09": 73.0,
+        "S04": 37.8,
+        "S08": 26.6,
+        "S11": 25.4,
+        "S12": 21.5,
+        "S02": 10.1,
+        "S05": 4.0,
+        "S06": 3.6,
+        "S10": 2.0,
+        "S13": 4.5,
+        "S14": 1.8,
+        "S15": 1.8
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S09",
+            "S08",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "East Hub",
+            "City Centre",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 217.7,
+            "S03": 112.0,
+            "S07": 95.8,
+            "S09": 73.0,
+            "S08": 26.6,
+            "S12": 21.5,
+            "S11": 25.4,
+            "S04": 37.8,
+            "S02": 10.1
+          },
+          "total_demand": 619.9,
+          "route_time_min": 63.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S06",
+            "S10",
+            "S05"
+          ],
+          "route_names": [
+            "South End",
+            "West End",
+            "Lower West End",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S13": 4.5,
+            "S06": 3.6,
+            "S10": 2.0,
+            "S05": 4.0
+          },
+          "total_demand": 14.1,
+          "route_time_min": 42.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Afternoon": {
+      "hours": "13:00-16:00",
+      "demand_per_stop": {
+        "S01": 343.6,
+        "S03": 167.9,
+        "S07": 143.2,
+        "S09": 106.4,
+        "S04": 56.4,
+        "S08": 38.8,
+        "S11": 35.8,
+        "S12": 29.8,
+        "S02": 14.0,
+        "S05": 5.5,
+        "S06": 4.7,
+        "S10": 3.2,
+        "S13": 7.0,
+        "S14": 2.9,
+        "S15": 3.0
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S09",
+            "S08",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "East Hub",
+            "City Centre",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 343.6,
+            "S03": 167.9,
+            "S07": 143.2,
+            "S09": 106.4,
+            "S08": 38.8,
+            "S12": 29.8,
+            "S11": 35.8,
+            "S04": 56.4,
+            "S02": 14.0
+          },
+          "total_demand": 935.9,
+          "route_time_min": 63.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 7.0,
+            "S14": 2.9,
+            "S15": 3.0,
+            "S05": 5.5,
+            "S06": 4.7,
+            "S10": 3.2
+          },
+          "total_demand": 26.3,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "PM Peak": {
+      "hours": "16:00-18:00",
+      "demand_per_stop": {
+        "S01": 341.6,
+        "S03": 149.6,
+        "S07": 133.1,
+        "S09": 107.3,
+        "S04": 55.0,
+        "S08": 42.9,
+        "S11": 36.6,
+        "S12": 31.7,
+        "S02": 6.6,
+        "S05": 3.0,
+        "S06": 2.7,
+        "S10": 2.0,
+        "S13": 4.6,
+        "S14": 1.7,
+        "S15": 3.2
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S09",
+            "S08",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "East Hub",
+            "City Centre",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 341.6,
+            "S03": 149.6,
+            "S07": 133.1,
+            "S09": 107.3,
+            "S08": 42.9,
+            "S12": 31.7,
+            "S11": 36.6,
+            "S04": 55.0,
+            "S02": 6.6
+          },
+          "total_demand": 904.4,
+          "route_time_min": 63.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 4.6,
+            "S15": 3.2,
+            "S05": 3.0,
+            "S06": 2.7,
+            "S10": 2.0
+          },
+          "total_demand": 15.5,
+          "route_time_min": 55.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Evening": {
+      "hours": "18:00-21:00",
+      "demand_per_stop": {
+        "S01": 347.5,
+        "S03": 129.2,
+        "S07": 113.8,
+        "S09": 90.7,
+        "S04": 52.1,
+        "S08": 37.0,
+        "S11": 33.4,
+        "S12": 27.3,
+        "S02": 4.6,
+        "S05": 4.1,
+        "S06": 2.5,
+        "S10": 1.2,
+        "S13": 4.2,
+        "S14": 1.0,
+        "S15": 3.9
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 347.5,
+            "S03": 129.2,
+            "S07": 113.8,
+            "S08": 37.0,
+            "S09": 90.7,
+            "S12": 27.3,
+            "S11": 33.4,
+            "S04": 52.1,
+            "S05": 4.1
+          },
+          "total_demand": 835.1,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S02",
+            "S13",
+            "S15",
+            "S06"
+          ],
+          "route_names": [
+            "Northwest End",
+            "South End",
+            "Far South East",
+            "West End"
+          ],
+          "stop_demand": {
+            "S02": 4.6,
+            "S13": 4.2,
+            "S15": 3.9,
+            "S06": 2.5
+          },
+          "total_demand": 15.2,
+          "route_time_min": 52.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Night": {
+      "hours": "21:00-24:00",
+      "demand_per_stop": {
+        "S01": 170.8,
+        "S03": 93.1,
+        "S07": 81.7,
+        "S09": 67.6,
+        "S04": 35.1,
+        "S08": 23.8,
+        "S11": 21.8,
+        "S12": 17.8,
+        "S02": 1.7,
+        "S05": 2.4,
+        "S06": 0.5,
+        "S10": 0.1,
+        "S13": 2.8,
+        "S14": 0.0,
+        "S15": 0.1
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S09",
+            "S08",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "East Hub",
+            "City Centre",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 170.8,
+            "S03": 93.1,
+            "S07": 81.7,
+            "S09": 67.6,
+            "S08": 23.8,
+            "S12": 17.8,
+            "S11": 21.8,
+            "S04": 35.1,
+            "S05": 2.4
+          },
+          "total_demand": 514.1,
+          "route_time_min": 61.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13"
+          ],
+          "route_names": [
+            "South End"
+          ],
+          "stop_demand": {
+            "S13": 2.8
+          },
+          "total_demand": 2.8,
+          "route_time_min": 0.0
+        }
+      ],
+      "unserved_stops": []
+    }
+  },
+  "Weekday (Named Storm, Jan)": {
+    "Early Morning": {
+      "hours": "05:00-07:00",
+      "demand_per_stop": {
+        "S01": 52.6,
+        "S03": 41.8,
+        "S07": 40.4,
+        "S09": 34.0,
+        "S04": 22.7,
+        "S08": 20.8,
+        "S11": 18.7,
+        "S12": 15.2,
+        "S02": 7.2,
+        "S05": 5.2,
+        "S06": 4.6,
+        "S10": 4.5,
+        "S13": 8.8,
+        "S14": 3.7,
+        "S15": 4.7
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 52.6,
+            "S03": 41.8,
+            "S07": 40.4,
+            "S08": 20.8,
+            "S09": 34.0,
+            "S12": 15.2,
+            "S11": 18.7,
+            "S04": 22.7,
+            "S02": 7.2
+          },
+          "total_demand": 253.4,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S10",
+            "S06",
+            "S05"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Lower West End",
+            "West End",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S13": 8.8,
+            "S14": 3.7,
+            "S15": 4.7,
+            "S10": 4.5,
+            "S06": 4.6,
+            "S05": 5.2
+          },
+          "total_demand": 31.5,
+          "route_time_min": 56.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "AM Peak": {
+      "hours": "07:00-09:00",
+      "demand_per_stop": {
+        "S01": 155.6,
+        "S03": 137.2,
+        "S07": 140.1,
+        "S09": 133.1,
+        "S04": 70.7,
+        "S08": 65.8,
+        "S11": 59.0,
+        "S12": 51.8,
+        "S02": 25.4,
+        "S05": 23.3,
+        "S06": 17.0,
+        "S10": 16.5,
+        "S13": 30.2,
+        "S14": 14.8,
+        "S15": 19.6
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 155.6,
+            "S03": 137.2,
+            "S07": 140.1,
+            "S08": 65.8,
+            "S09": 133.1,
+            "S12": 51.8,
+            "S11": 59.0,
+            "S04": 70.7,
+            "S05": 23.3
+          },
+          "total_demand": 836.6,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S10",
+            "S06",
+            "S02"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Lower West End",
+            "West End",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S13": 30.2,
+            "S14": 14.8,
+            "S15": 19.6,
+            "S10": 16.5,
+            "S06": 17.0,
+            "S02": 25.4
+          },
+          "total_demand": 123.5,
+          "route_time_min": 50.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Mid Morning": {
+      "hours": "09:00-11:00",
+      "demand_per_stop": {
+        "S01": 98.4,
+        "S03": 77.7,
+        "S07": 82.0,
+        "S09": 70.4,
+        "S04": 43.7,
+        "S08": 40.4,
+        "S11": 36.2,
+        "S12": 30.9,
+        "S02": 8.9,
+        "S05": 8.0,
+        "S06": 5.4,
+        "S10": 5.6,
+        "S13": 11.5,
+        "S14": 5.0,
+        "S15": 6.2
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 98.4,
+            "S03": 77.7,
+            "S07": 82.0,
+            "S08": 40.4,
+            "S09": 70.4,
+            "S12": 30.9,
+            "S11": 36.2,
+            "S04": 43.7,
+            "S05": 8.0
+          },
+          "total_demand": 487.7,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S10",
+            "S06",
+            "S02"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Lower West End",
+            "West End",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S13": 11.5,
+            "S14": 5.0,
+            "S15": 6.2,
+            "S10": 5.6,
+            "S06": 5.4,
+            "S02": 8.9
+          },
+          "total_demand": 42.6,
+          "route_time_min": 50.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Lunch": {
+      "hours": "11:00-13:00",
+      "demand_per_stop": {
+        "S01": 82.4,
+        "S03": 66.0,
+        "S07": 69.2,
+        "S09": 57.6,
+        "S04": 39.4,
+        "S08": 35.8,
+        "S11": 31.7,
+        "S12": 26.7,
+        "S02": 6.8,
+        "S05": 5.5,
+        "S06": 3.4,
+        "S10": 3.9,
+        "S13": 8.8,
+        "S14": 3.4,
+        "S15": 4.6
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 82.4,
+            "S03": 66.0,
+            "S07": 69.2,
+            "S08": 35.8,
+            "S09": 57.6,
+            "S12": 26.7,
+            "S11": 31.7,
+            "S04": 39.4,
+            "S02": 6.8
+          },
+          "total_demand": 415.6,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S10",
+            "S06"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "Lower West End",
+            "West End"
+          ],
+          "stop_demand": {
+            "S13": 8.8,
+            "S14": 3.4,
+            "S15": 4.6,
+            "S05": 5.5,
+            "S10": 3.9,
+            "S06": 3.4
+          },
+          "total_demand": 29.6,
+          "route_time_min": 62.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Afternoon": {
+      "hours": "13:00-16:00",
+      "demand_per_stop": {
+        "S01": 129.1,
+        "S03": 108.6,
+        "S07": 111.8,
+        "S09": 84.6,
+        "S04": 60.4,
+        "S08": 53.8,
+        "S11": 47.9,
+        "S12": 40.2,
+        "S02": 12.3,
+        "S05": 9.4,
+        "S06": 6.0,
+        "S10": 6.2,
+        "S13": 13.7,
+        "S14": 5.4,
+        "S15": 6.3
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 129.1,
+            "S03": 108.6,
+            "S07": 111.8,
+            "S08": 53.8,
+            "S09": 84.6,
+            "S12": 40.2,
+            "S11": 47.9,
+            "S04": 60.4,
+            "S02": 12.3
+          },
+          "total_demand": 648.7,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S05",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Far East End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 13.7,
+            "S14": 5.4,
+            "S15": 6.3,
+            "S05": 9.4,
+            "S06": 6.0,
+            "S10": 6.2
+          },
+          "total_demand": 47.0,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "PM Peak": {
+      "hours": "16:00-18:00",
+      "demand_per_stop": {
+        "S01": 139.4,
+        "S03": 113.3,
+        "S07": 112.3,
+        "S09": 88.3,
+        "S04": 60.7,
+        "S08": 55.3,
+        "S11": 48.4,
+        "S12": 42.4,
+        "S02": 7.5,
+        "S05": 6.7,
+        "S06": 3.5,
+        "S10": 4.0,
+        "S13": 9.1,
+        "S14": 3.4,
+        "S15": 4.7
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S05"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S01": 139.4,
+            "S03": 113.3,
+            "S07": 112.3,
+            "S08": 55.3,
+            "S09": 88.3,
+            "S12": 42.4,
+            "S11": 48.4,
+            "S04": 60.7,
+            "S05": 6.7
+          },
+          "total_demand": 666.8,
+          "route_time_min": 56.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S02",
+            "S06",
+            "S10"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "Northwest End",
+            "West End",
+            "Lower West End"
+          ],
+          "stop_demand": {
+            "S13": 9.1,
+            "S14": 3.4,
+            "S15": 4.7,
+            "S02": 7.5,
+            "S06": 3.5,
+            "S10": 4.0
+          },
+          "total_demand": 32.2,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Evening": {
+      "hours": "18:00-21:00",
+      "demand_per_stop": {
+        "S01": 122.2,
+        "S03": 98.3,
+        "S07": 103.0,
+        "S09": 73.5,
+        "S04": 54.3,
+        "S08": 52.3,
+        "S11": 43.4,
+        "S12": 37.1,
+        "S02": 5.4,
+        "S05": 3.7,
+        "S06": 3.9,
+        "S10": 3.1,
+        "S13": 7.8,
+        "S14": 2.7,
+        "S15": 2.5
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S04",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "Northeast Pass",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 122.2,
+            "S03": 98.3,
+            "S07": 103.0,
+            "S08": 52.3,
+            "S09": 73.5,
+            "S12": 37.1,
+            "S11": 43.4,
+            "S04": 54.3,
+            "S02": 5.4
+          },
+          "total_demand": 589.5,
+          "route_time_min": 58.0
+        },
+        {
+          "bus": 2,
+          "route_stops": [
+            "S13",
+            "S14",
+            "S15",
+            "S06",
+            "S10",
+            "S05"
+          ],
+          "route_names": [
+            "South End",
+            "Far South West",
+            "Far South East",
+            "West End",
+            "Lower West End",
+            "Far East End"
+          ],
+          "stop_demand": {
+            "S13": 7.8,
+            "S14": 2.7,
+            "S15": 2.5,
+            "S06": 3.9,
+            "S10": 3.1,
+            "S05": 3.7
+          },
+          "total_demand": 23.7,
+          "route_time_min": 61.0
+        }
+      ],
+      "unserved_stops": []
+    },
+    "Night": {
+      "hours": "21:00-24:00",
+      "demand_per_stop": {
+        "S01": 37.5,
+        "S03": 29.5,
+        "S07": 34.3,
+        "S09": 19.3,
+        "S04": 19.4,
+        "S08": 16.2,
+        "S11": 13.3,
+        "S12": 10.0,
+        "S02": 2.9,
+        "S05": 0.9,
+        "S06": 1.7,
+        "S10": 1.5,
+        "S13": 4.4,
+        "S14": 1.1,
+        "S15": 0.6
+      },
+      "routes": [
+        {
+          "bus": 1,
+          "route_stops": [
+            "S01",
+            "S04",
+            "S03",
+            "S07",
+            "S08",
+            "S09",
+            "S12",
+            "S11",
+            "S13",
+            "S02"
+          ],
+          "route_names": [
+            "North Hub",
+            "Northeast Pass",
+            "Upper Junction",
+            "West Hub",
+            "City Centre",
+            "East Hub",
+            "Southeast Cross",
+            "South Junction",
+            "South End",
+            "Northwest End"
+          ],
+          "stop_demand": {
+            "S01": 37.5,
+            "S04": 19.4,
+            "S03": 29.5,
+            "S07": 34.3,
+            "S08": 16.2,
+            "S09": 19.3,
+            "S12": 10.0,
+            "S11": 13.3,
+            "S13": 4.4,
+            "S02": 2.9
+          },
+          "total_demand": 186.8,
+          "route_time_min": 65.0
+        }
+      ],
+      "unserved_stops": []
+    }
+  }
+}
