@@ -30,7 +30,7 @@ public class PythonStringList : MonoBehaviour
         {
             ProcessStartInfo psi = new ProcessStartInfo
             {
-                FileName = "python3", // or "python" on Windows
+                FileName = "/opt/anaconda3/bin/python3", // or "python" on Windows
                 Arguments = scriptPath,
                 RedirectStandardOutput = true,
                 UseShellExecute = false,
