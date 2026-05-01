@@ -7,7 +7,6 @@
 ![FPGA](https://img.shields.io/badge/FPGA-Verilog-orange)
 ![ML](https://img.shields.io/badge/Model-XGBoost-green)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 ## Summary
