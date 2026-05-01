@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="demo.gif" width="80%">
+  <img src="demo.gif" width="30%">
   <br>
   <em>Real-time adaptive routing in Unity simulation</em>
 </p>
