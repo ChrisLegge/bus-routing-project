@@ -9,6 +9,12 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 ---
+
+<p align="center">
+  <img src="demo.gif" width="80%">
+</p>
+
+---
 ## Summary
 
 A real-time system that replaces fixed bus schedules with **machine-learning-driven routing**, combining:
