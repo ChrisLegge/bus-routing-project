@@ -2,12 +2,16 @@
 
 ### ML-Powered Adaptive Public Transport for Urban Equity
 
-<p align="center">
-  <img src="demo.gif" width="80%">
-</p>
-
 ---
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Unity](https://img.shields.io/badge/Unity-2022-black)
+![FPGA](https://img.shields.io/badge/FPGA-Verilog-orange)
+![ML](https://img.shields.io/badge/Model-XGBoost-green)
+![Status](https://img.shields.io/badge/Status-Prototype-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
 ## Summary
 
 A real-time system that replaces fixed bus schedules with **machine-learning-driven routing**, combining:
