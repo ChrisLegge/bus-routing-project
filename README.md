@@ -11,9 +11,12 @@
 ---
 
 <p align="center">
-  <img src="demo.gif" width="30%">
-  <br>
-  <em>Real-time adaptive routing in Unity simulation</em>
+  <img src="demo.gif" width="48%">
+  <img src="docs/figures/fpga.jpg" width="48%">
+</p>
+
+<p align="center">
+  <em>Left: Light Map (ML-driven routing) • Right: FPGA powering the map</em>
 </p>
 
 ---
