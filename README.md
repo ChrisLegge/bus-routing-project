@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Unity](https://img.shields.io/badge/Unity-2022-black)
 ![FPGA](https://img.shields.io/badge/FPGA-Verilog-orange)
-![ML](https://img.shields.io/badge/Model-XGBoost-green)
+![ML](https://img.shields.io/badge/Model-XGBoost-1.76-green)
 ![Status](https://img.shields.io/badge/Status-Prototype-yellow)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
