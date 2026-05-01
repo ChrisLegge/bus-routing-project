@@ -2,8 +2,6 @@
 
 ### ML-Powered Adaptive Public Transport for Urban Equity
 
----
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Unity](https://img.shields.io/badge/Unity-2022-black)
 ![FPGA](https://img.shields.io/badge/FPGA-Verilog-orange)
