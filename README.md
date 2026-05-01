@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-  <img src="docs/figures/demo.gif" width="30%">
-  <img src="docs/figures/FPGA.gif" width="30%">
+  <img src="docs/figures/demo.GIF" width="30%">
+  <img src="docs/figures/FPGA.GIF" width="30%">
 </p>
 
 <p align="center">
