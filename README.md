@@ -125,6 +125,27 @@ Provides a **screen-free, accessible interface**
 
 ---
 
+## 📘 Engineering Case Study
+
+### Problem
+Fixed-schedule buses fail under:
+- demand spikes
+- weather changes
+- event surges
+
+### Solution
+A predictive system that:
+1. forecasts demand
+2. dynamically assigns routes
+3. visualises output physically
+
+### Impact
+- Reduced waiting time variance
+- Improved capacity utilisation
+- Increased accessibility (non-smartphone users)
+
+---
+
 ## Getting Started
 
 ```bash id="clone-run"
